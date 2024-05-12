@@ -1,7 +1,5 @@
 This is the waste code archive.
 
-This mod was originally created by Keranik, who has a weird personality, a crazy temperament, doesn't know how to use a git, values personal interests, and can't communicate.
-
 Code extraction and new open source project work will be done.
 
 # COI: Extended
